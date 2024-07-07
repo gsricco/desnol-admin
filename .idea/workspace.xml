@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4ca3593-4460-4add-92cd-4918b139e43b" name="Changes" comment="finish">
+      <change afterPath="$PROJECT_DIR$/public/icon/exclamation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icon/eye-off-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icon/eye-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/user_medium_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Avatar/Avatar.styled.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Avatar/Avatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Avatar/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Header/Header.styled.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Layout/Basic.styled.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Layout/Basic.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Pagination/Pagination.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/Pagination/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/constants/PATH.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/constants/fakeData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/hooks/useAuth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/hooks/useClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/hooks/useLocalStorage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/hooks/useShowPassword.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/types/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/Login/Login.styled.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/Login/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/requests/RequestItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/requests/Requests.styled.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/requests/RequestsTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/requests/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/auth/forgot-password/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/auth/login/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/notifications/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/requests/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/GlobalStyles/GlobalStyles.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Modal.styled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ioshCUgDRjfFaXvDc5IyuyubLS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sergio/studyProjects/Testovie/Desnol/desnol-admin/public/icon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/sergio/studyProjects/Testovie/Desnol/desnol-admin/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/icon" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/src/common/components" />
+      <recent name="$PROJECT_DIR$/src/common/components/UI/Button" />
+      <recent name="$PROJECT_DIR$/src/common/components/UI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="$PROJECT_DIR$/src/common/types" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/src/common" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ca3593-4460-4add-92cd-4918b139e43b" name="Changes" comment="" />
+      <created>1720168381877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720168381877</updated>
+      <workItem from="1720168384940" duration="12041000" />
+      <workItem from="1720224000937" duration="16566000" />
+      <workItem from="1720255727758" duration="20022000" />
+      <workItem from="1720376298238" duration="433000" />
+      <workItem from="1720377778530" duration="11689000" />
+    </task>
+    <task id="LOCAL-00001" summary="finish">
+      <option name="closed" value="true" />
+      <created>1720389285649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720389285649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+  </component>
+</project>
